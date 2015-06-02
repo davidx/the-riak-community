@@ -63,7 +63,7 @@ Here are the three repositories monitored by @mjbrender from the Developer Advoc
 | **Cluster Management**
 | Join Cluster     | Yes (??)       | no           | no
 | Discover Cluster | ???            | no           | no
-| Leave Cluster    | ???            | no           | no
+| Leave Cluster    | Yes            | no           | no
 | Rolling Restart  | ???            | no           | no
 | hands-off bootstrap | no | no     | no           | no
 | stage changes     | no            | no           | no
